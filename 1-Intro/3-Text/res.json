@@ -1,0 +1,2832 @@
+{
+    "concept_list": [
+        {
+            "form": "wife",
+            "id": "07e4b91de9",
+            "relevance": "100",
+            "sementity": {
+                "class": "class",
+                "fiction": "nonfiction",
+                "id": "ODENTITY_PERSON",
+                "type": "Top>Person"
+            },
+            "semld_list": [
+                "http://en.wikipedia.org/wiki/Wife",
+                "http://ar.wikipedia.org/wiki/زوجة",
+                "http://ca.wikipedia.org/wiki/Esposa",
+                "http://da.wikipedia.org/wiki/Hustru",
+                "http://hi.wikipedia.org/wiki/पत्नी",
+                "http://id.wikipedia.org/wiki/Istri",
+                "http://it.wikipedia.org/wiki/Moglie",
+                "http://ko.wikipedia.org/wiki/아내",
+                "http://no.wikipedia.org/wiki/Hustru",
+                "http://ro.wikipedia.org/wiki/Soție",
+                "http://ru.wikipedia.org/wiki/Жена",
+                "http://sv.wikipedia.org/wiki/Maka_(äktenskap)",
+                "http://th.wikipedia.org/wiki/ภรรยา",
+                "http://zh.wikipedia.org/wiki/妻子",
+                "http://d-nb.info/gnd/4013634-6",
+                "sumo:Human"
+            ],
+            "variant_list": [
+                {
+                    "endp": "138",
+                    "form": "wife",
+                    "inip": "135"
+                },
+                {
+                    "endp": "443",
+                    "form": "wife",
+                    "inip": "440"
+                },
+                {
+                    "endp": "797",
+                    "form": "wife",
+                    "inip": "794"
+                },
+                {
+                    "endp": "1362",
+                    "form": "wife",
+                    "inip": "1359"
+                },
+                {
+                    "endp": "2615",
+                    "form": "wife",
+                    "inip": "2612"
+                },
+                {
+                    "endp": "2886",
+                    "form": "wife",
+                    "inip": "2883"
+                }
+            ]
+        },
+        {
+            "form": "family",
+            "id": "180fd2e522",
+            "relevance": "83",
+            "sementity": {
+                "class": "class",
+                "fiction": "nonfiction",
+                "id": "ODENTITY_ORGANIZATION",
+                "type": "Top>Organization"
+            },
+            "semld_list": [
+                "http://en.wikipedia.org/wiki/Family",
+                "http://ar.wikipedia.org/wiki/أسرة",
+                "http://ca.wikipedia.org/wiki/Família",
+                "http://cs.wikipedia.org/wiki/Rodina",
+                "http://da.wikipedia.org/wiki/Familie_(menneske)",
+                "http://de.wikipedia.org/wiki/Familie",
+                "http://es.wikipedia.org/wiki/Familia",
+                "http://fi.wikipedia.org/wiki/Perhe",
+                "http://fr.wikipedia.org/wiki/Famille",
+                "http://he.wikipedia.org/wiki/משפחה",
+                "http://hi.wikipedia.org/wiki/परिवार",
+                "http://id.wikipedia.org/wiki/Keluarga",
+                "http://it.wikipedia.org/wiki/Famiglia",
+                "http://ja.wikipedia.org/wiki/家族",
+                "http://ko.wikipedia.org/wiki/가족",
+                "http://nl.wikipedia.org/wiki/Familie_(verwanten)",
+                "http://no.wikipedia.org/wiki/Familie",
+                "http://pl.wikipedia.org/wiki/Rodzina_(socjologia)",
+                "http://pt.wikipedia.org/wiki/Família",
+                "http://ro.wikipedia.org/wiki/Familie",
+                "http://ru.wikipedia.org/wiki/Семья",
+                "http://sv.wikipedia.org/wiki/Familj",
+                "http://th.wikipedia.org/wiki/ครอบครัว",
+                "http://tr.wikipedia.org/wiki/Aile",
+                "http://zh.wikipedia.org/wiki/家庭",
+                "http://d-nb.info/gnd/4016397-0",
+                "http://data.nytimes.com/N867427782349177120",
+                "http://www.bbc.co.uk/things/184cb2f7-e305-4c46-ab4f-2e18f60b0293#id",
+                "sumo:Organization"
+            ],
+            "semtheme_list": [
+                {
+                    "id": "ODTHEME_SOCIOLOGY",
+                    "type": "Top>SocialSciences>Sociology"
+                }
+            ],
+            "variant_list": [
+                {
+                    "endp": "13",
+                    "form": "families",
+                    "inip": "6"
+                },
+                {
+                    "endp": "49",
+                    "form": "family",
+                    "inip": "44"
+                },
+                {
+                    "endp": "259",
+                    "form": "family",
+                    "inip": "254"
+                },
+                {
+                    "endp": "491",
+                    "form": "family",
+                    "inip": "486"
+                },
+                {
+                    "endp": "756",
+                    "form": "family",
+                    "inip": "751"
+                }
+            ]
+        },
+        {
+            "form": "husband",
+            "id": "6a17861b62",
+            "relevance": "66",
+            "sementity": {
+                "class": "class",
+                "fiction": "nonfiction",
+                "id": "ODENTITY_PERSON",
+                "type": "Top>Person"
+            },
+            "semld_list": [
+                "http://en.wikipedia.org/wiki/Husband",
+                "http://ar.wikipedia.org/wiki/زوج",
+                "http://ca.wikipedia.org/wiki/Marit",
+                "http://he.wikipedia.org/wiki/בעל_(משפחה)",
+                "http://id.wikipedia.org/wiki/Suami",
+                "http://it.wikipedia.org/wiki/Marito",
+                "http://ko.wikipedia.org/wiki/남편",
+                "http://no.wikipedia.org/wiki/Ektemann",
+                "http://ro.wikipedia.org/wiki/Soț",
+                "http://ru.wikipedia.org/wiki/Муж",
+                "http://sv.wikipedia.org/wiki/Make_(äktenskap)",
+                "http://zh.wikipedia.org/wiki/丈夫",
+                "http://d-nb.info/gnd/4070668-0",
+                "sumo:Human"
+            ],
+            "variant_list": [
+                {
+                    "endp": "170",
+                    "form": "husband",
+                    "inip": "164"
+                },
+                {
+                    "endp": "297",
+                    "form": "husband",
+                    "inip": "291"
+                },
+                {
+                    "endp": "434",
+                    "form": "husband",
+                    "inip": "428"
+                },
+                {
+                    "endp": "837",
+                    "form": "husband",
+                    "inip": "831"
+                }
+            ]
+        },
+        {
+            "form": "home",
+            "id": "144b5c0ed4",
+            "relevance": "66",
+            "sementity": {
+                "class": "class",
+                "fiction": "nonfiction",
+                "id": "ODENTITY_FACILITY",
+                "type": "Top>Location>Facility"
+            },
+            "semld_list": [
+                "http://en.wikipedia.org/wiki/Home",
+                "http://ar.wikipedia.org/wiki/بيت",
+                "http://ca.wikipedia.org/wiki/Llar",
+                "http://es.wikipedia.org/wiki/Hogar",
+                "http://fi.wikipedia.org/wiki/Koti",
+                "http://fr.wikipedia.org/wiki/Foyer_(logement)",
+                "http://he.wikipedia.org/wiki/בית",
+                "http://hi.wikipedia.org/wiki/घर",
+                "http://it.wikipedia.org/wiki/Residenza_(diritto)",
+                "http://ja.wikipedia.org/wiki/家庭",
+                "http://ko.wikipedia.org/wiki/가정",
+                "http://nl.wikipedia.org/wiki/Thuis_(woning)",
+                "http://pt.wikipedia.org/wiki/Lar",
+                "http://ro.wikipedia.org/wiki/Acasă",
+                "http://sv.wikipedia.org/wiki/Hem",
+                "http://zh.wikipedia.org/wiki/家",
+                "sumo:FacilityPartOther"
+            ],
+            "variant_list": [
+                {
+                    "endp": "347",
+                    "form": "house",
+                    "inip": "343"
+                },
+                {
+                    "endp": "564",
+                    "form": "house",
+                    "inip": "560"
+                },
+                {
+                    "endp": "858",
+                    "form": "home",
+                    "inip": "855"
+                },
+                {
+                    "endp": "915",
+                    "form": "house",
+                    "inip": "911"
+                }
+            ]
+        },
+        {
+            "form": "dinner",
+            "id": "98745a2f2e",
+            "relevance": "50",
+            "sementity": {
+                "class": "class",
+                "fiction": "nonfiction",
+                "id": "ODENTITY_FOOD",
+                "type": "Top>Product>Food"
+            },
+            "semld_list": [
+                "http://en.wikipedia.org/wiki/Dinner",
+                "http://da.wikipedia.org/wiki/Aftensmad",
+                "http://de.wikipedia.org/wiki/Mittagessen",
+                "http://es.wikipedia.org/wiki/Cena",
+                "http://fi.wikipedia.org/wiki/Päivällinen",
+                "http://fr.wikipedia.org/wiki/Dîner",
+                "http://ja.wikipedia.org/wiki/夕食",
+                "http://ko.wikipedia.org/wiki/저녁밥",
+                "http://no.wikipedia.org/wiki/Kveldsmat",
+                "http://pl.wikipedia.org/wiki/Obiad",
+                "http://pt.wikipedia.org/wiki/Jantar",
+                "http://ru.wikipedia.org/wiki/Ужин",
+                "http://sv.wikipedia.org/wiki/Middag_(mat)",
+                "http://zh.wikipedia.org/wiki/晚餐",
+                "sumo:PreparedFood"
+            ],
+            "variant_list": [
+                {
+                    "endp": "1102",
+                    "form": "dinner",
+                    "inip": "1097"
+                },
+                {
+                    "endp": "1806",
+                    "form": "dinner",
+                    "inip": "1801"
+                },
+                {
+                    "endp": "1936",
+                    "form": "dinner",
+                    "inip": "1931"
+                }
+            ]
+        },
+        {
+            "form": "dinner",
+            "id": "e77b3848e0",
+            "relevance": "50",
+            "sementity": {
+                "class": "class",
+                "fiction": "nonfiction",
+                "id": "ODENTITY_EVENT",
+                "type": "Top>Event"
+            },
+            "semld_list": [
+                "http://en.wikipedia.org/wiki/Dinner",
+                "http://da.wikipedia.org/wiki/Aftensmad",
+                "http://de.wikipedia.org/wiki/Mittagessen",
+                "http://es.wikipedia.org/wiki/Cena",
+                "http://fi.wikipedia.org/wiki/Päivällinen",
+                "http://fr.wikipedia.org/wiki/Dîner",
+                "http://ja.wikipedia.org/wiki/夕食",
+                "http://ko.wikipedia.org/wiki/저녁밥",
+                "http://no.wikipedia.org/wiki/Kveldsmat",
+                "http://pl.wikipedia.org/wiki/Obiad",
+                "http://pt.wikipedia.org/wiki/Jantar",
+                "http://ru.wikipedia.org/wiki/Ужин",
+                "http://sv.wikipedia.org/wiki/Middag_(mat)",
+                "http://zh.wikipedia.org/wiki/晚餐",
+                "sumo:Meeting"
+            ],
+            "semtheme_list": [
+                {
+                    "id": "ODTHEME_GASTRONOMY",
+                    "type": "Top>Society>Gastronomy"
+                }
+            ],
+            "variant_list": [
+                {
+                    "endp": "1102",
+                    "form": "dinner",
+                    "inip": "1097"
+                },
+                {
+                    "endp": "1806",
+                    "form": "dinner",
+                    "inip": "1801"
+                },
+                {
+                    "endp": "1936",
+                    "form": "dinner",
+                    "inip": "1931"
+                }
+            ]
+        },
+        {
+            "form": "governess",
+            "id": "514df951a7",
+            "relevance": "33",
+            "sementity": {
+                "class": "class",
+                "fiction": "nonfiction",
+                "id": "ODENTITY_VOCATION",
+                "type": "Top>OtherEntity>Vocation"
+            },
+            "semld_list": [
+                "http://en.wikipedia.org/wiki/Governess",
+                "http://cs.wikipedia.org/wiki/Guvernantka",
+                "http://da.wikipedia.org/wiki/Guvernante",
+                "http://de.wikipedia.org/wiki/Gouvernante",
+                "http://es.wikipedia.org/wiki/Institutor",
+                "http://fr.wikipedia.org/wiki/Gouvernante_dans_l'Angleterre_georgienne_et_victorienne",
+                "http://ja.wikipedia.org/wiki/ガヴァネス",
+                "http://nl.wikipedia.org/wiki/Gouvernante",
+                "http://no.wikipedia.org/wiki/Guvernante",
+                "http://pl.wikipedia.org/wiki/Guwernantka",
+                "http://ru.wikipedia.org/wiki/Гувернёр",
+                "http://d-nb.info/gnd/4157962-8",
+                "sumo:Position"
+            ],
+            "semtheme_list": [
+                {
+                    "id": "ODTHEME_EDUCATION",
+                    "type": "Top>Society>Education"
+                }
+            ],
+            "variant_list": [
+                {
+                    "endp": "243",
+                    "form": "governess",
+                    "inip": "235"
+                },
+                {
+                    "endp": "938",
+                    "form": "governess",
+                    "inip": "930"
+                }
+            ]
+        },
+        {
+            "form": "associate",
+            "id": "2262dbecf7",
+            "relevance": "33",
+            "sementity": {
+                "class": "class",
+                "fiction": "nonfiction",
+                "id": "ODENTITY_PERSON",
+                "type": "Top>Person"
+            },
+            "semld_list": [
+                "sumo:Human"
+            ],
+            "variant_list": [
+                {
+                    "endp": "475",
+                    "form": "members",
+                    "inip": "469"
+                },
+                {
+                    "endp": "742",
+                    "form": "members",
+                    "inip": "736"
+                }
+            ]
+        },
+        {
+            "form": "member",
+            "id": "a4d4273e43",
+            "relevance": "33",
+            "sementity": {
+                "class": "class",
+                "fiction": "nonfiction",
+                "id": "ODENTITY_BODY_PART",
+                "type": "Top>LivingThing>BodyPart"
+            },
+            "semld_list": [
+                "sumo:Organism"
+            ],
+            "semtheme_list": [
+                {
+                    "id": "ODTHEME_ANATOMY",
+                    "type": "Top>LifeSciences>Anatomy"
+                }
+            ],
+            "variant_list": [
+                {
+                    "endp": "475",
+                    "form": "members",
+                    "inip": "469"
+                },
+                {
+                    "endp": "742",
+                    "form": "members",
+                    "inip": "736"
+                }
+            ]
+        },
+        {
+            "form": "member",
+            "id": "a87b286b77",
+            "relevance": "33",
+            "sementity": {
+                "class": "class",
+                "fiction": "nonfiction",
+                "id": "ODENTITY_PERSON",
+                "type": "Top>Person"
+            },
+            "semld_list": [
+                "sumo:Human"
+            ],
+            "variant_list": [
+                {
+                    "endp": "475",
+                    "form": "members",
+                    "inip": "469"
+                },
+                {
+                    "endp": "742",
+                    "form": "members",
+                    "inip": "736"
+                }
+            ]
+        },
+        {
+            "form": "person",
+            "id": "cf33ac9c72",
+            "relevance": "33",
+            "sementity": {
+                "class": "class",
+                "fiction": "nonfiction",
+                "id": "ODENTITY_PERSON",
+                "type": "Top>Person"
+            },
+            "semld_list": [
+                "http://en.wikipedia.org/wiki/Person",
+                "http://ar.wikipedia.org/wiki/شخص",
+                "http://ca.wikipedia.org/wiki/Persona",
+                "http://cs.wikipedia.org/wiki/Osoba",
+                "http://da.wikipedia.org/wiki/Person",
+                "http://de.wikipedia.org/wiki/Person",
+                "http://es.wikipedia.org/wiki/Persona",
+                "http://fi.wikipedia.org/wiki/Henkilö",
+                "http://id.wikipedia.org/wiki/Pribadi",
+                "http://it.wikipedia.org/wiki/Persona_(filosofia)",
+                "http://ja.wikipedia.org/wiki/人間",
+                "http://pl.wikipedia.org/wiki/Osoba",
+                "http://pt.wikipedia.org/wiki/Pessoa_(filosofia)",
+                "http://ro.wikipedia.org/wiki/Persoană",
+                "http://ru.wikipedia.org/wiki/Личность",
+                "http://tr.wikipedia.org/wiki/Kişi",
+                "http://zh.wikipedia.org/wiki/個人",
+                "http://d-nb.info/gnd/4134819-9",
+                "sumo:Human"
+            ],
+            "variant_list": [
+                {
+                    "endp": "551",
+                    "form": "person",
+                    "inip": "546"
+                },
+                {
+                    "endp": "1467",
+                    "form": "person",
+                    "inip": "1462"
+                }
+            ]
+        },
+        {
+            "form": "room",
+            "id": "c055029d6b",
+            "relevance": "33",
+            "sementity": {
+                "class": "class",
+                "fiction": "nonfiction",
+                "id": "ODENTITY_FACILITY",
+                "type": "Top>Location>Facility"
+            },
+            "semld_list": [
+                "http://en.wikipedia.org/wiki/Room",
+                "http://ar.wikipedia.org/wiki/غرفة",
+                "http://ca.wikipedia.org/wiki/Habitació",
+                "http://cs.wikipedia.org/wiki/Místnost",
+                "http://da.wikipedia.org/wiki/Sal_(lokale)",
+                "http://de.wikipedia.org/wiki/Zimmer",
+                "http://es.wikipedia.org/wiki/Habitación",
+                "http://fi.wikipedia.org/wiki/Huone",
+                "http://fr.wikipedia.org/wiki/Salle",
+                "http://he.wikipedia.org/wiki/חדר",
+                "http://hi.wikipedia.org/wiki/कमरा",
+                "http://id.wikipedia.org/wiki/Ruangan",
+                "http://it.wikipedia.org/wiki/Stanza_(architettura)",
+                "http://ja.wikipedia.org/wiki/部屋",
+                "http://ko.wikipedia.org/wiki/방",
+                "http://nl.wikipedia.org/wiki/Ruimte_(toegankelijk_deel_van_een_gebouw)",
+                "http://no.wikipedia.org/wiki/Værelse",
+                "http://pt.wikipedia.org/wiki/Quarto",
+                "http://ro.wikipedia.org/wiki/Cameră",
+                "http://ru.wikipedia.org/wiki/Комната",
+                "http://sv.wikipedia.org/wiki/Sal_(rum)",
+                "http://th.wikipedia.org/wiki/ห้อง",
+                "http://tr.wikipedia.org/wiki/Oda",
+                "http://zh.wikipedia.org/wiki/房間",
+                "http://d-nb.info/gnd/4190829-6",
+                "sumo:FacilityPartOther"
+            ],
+            "variant_list": [
+                {
+                    "endp": "824",
+                    "form": "room",
+                    "inip": "821"
+                },
+                {
+                    "endp": "2893",
+                    "form": "room",
+                    "inip": "2890"
+                }
+            ]
+        },
+        {
+            "form": "bedroom",
+            "id": "f5ef144212",
+            "relevance": "33",
+            "sementity": {
+                "class": "class",
+                "fiction": "nonfiction",
+                "id": "ODENTITY_FACILITY",
+                "type": "Top>Location>Facility"
+            },
+            "semld_list": [
+                "http://en.wikipedia.org/wiki/Dormitory",
+                "http://ar.wikipedia.org/wiki/سكن_جامعي",
+                "http://cs.wikipedia.org/wiki/Internát",
+                "http://id.wikipedia.org/wiki/Asrama",
+                "http://it.wikipedia.org/wiki/Dormitorio",
+                "http://ja.wikipedia.org/wiki/寮",
+                "http://ko.wikipedia.org/wiki/기숙사",
+                "http://no.wikipedia.org/wiki/Internat",
+                "http://pl.wikipedia.org/wiki/Dormitorium",
+                "http://ru.wikipedia.org/wiki/Общежитие",
+                "http://zh.wikipedia.org/wiki/宿舍",
+                "sumo:FacilityPartOther"
+            ],
+            "variant_list": [
+                {
+                    "endp": "1372",
+                    "form": "bedroom",
+                    "inip": "1366"
+                },
+                {
+                    "endp": "2811",
+                    "form": "bedroom",
+                    "inip": "2805"
+                }
+            ]
+        },
+        {
+            "form": "face",
+            "id": "738e70d4c3",
+            "relevance": "33",
+            "sementity": {
+                "class": "class",
+                "fiction": "nonfiction",
+                "id": "ODENTITY_BODY_PART",
+                "type": "Top>LivingThing>BodyPart"
+            },
+            "semld_list": [
+                "sumo:Organism"
+            ],
+            "semtheme_list": [
+                {
+                    "id": "ODTHEME_ANATOMY",
+                    "type": "Top>LifeSciences>Anatomy"
+                }
+            ],
+            "variant_list": [
+                {
+                    "endp": "1609",
+                    "form": "face",
+                    "inip": "1606"
+                },
+                {
+                    "endp": "2954",
+                    "form": "face",
+                    "inip": "2951"
+                }
+            ]
+        }
+    ],
+    "entity_list": [
+        {
+            "form": "Darmstadt",
+            "id": "f5650fbe01",
+            "relevance": "100",
+            "sementity": {
+                "class": "instance",
+                "fiction": "nonfiction",
+                "id": "ODENTITY_CITY",
+                "type": "Top>Location>GeoPoliticalEntity>City"
+            },
+            "semgeo_list": [
+                {
+                    "adm1": {
+                        "form": "Hesse",
+                        "id": "75275b7bb5"
+                    },
+                    "continent": {
+                        "form": "Europe",
+                        "id": "0404ea4d6c"
+                    },
+                    "country": {
+                        "form": "Germany",
+                        "id": "1864d0b4d1",
+                        "standard_list": [
+                            {
+                                "id": "ISO3166-1-a2",
+                                "value": "DE"
+                            },
+                            {
+                                "id": "ISO3166-1-a3",
+                                "value": "DEU"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "semld_list": [
+                "http://en.wikipedia.org/wiki/Darmstadt",
+                "http://ar.wikipedia.org/wiki/دارمشتات",
+                "http://ca.wikipedia.org/wiki/Darmstadt",
+                "http://cs.wikipedia.org/wiki/Darmstadt",
+                "http://de.wikipedia.org/wiki/Darmstadt",
+                "http://es.wikipedia.org/wiki/Darmstadt",
+                "http://fi.wikipedia.org/wiki/Darmstadt",
+                "http://fr.wikipedia.org/wiki/Darmstadt",
+                "http://he.wikipedia.org/wiki/דרמשטאדט",
+                "http://id.wikipedia.org/wiki/Darmstadt",
+                "http://it.wikipedia.org/wiki/Darmstadt",
+                "http://ja.wikipedia.org/wiki/ダルムシュタット",
+                "http://ko.wikipedia.org/wiki/다름슈타트",
+                "http://nl.wikipedia.org/wiki/Darmstadt",
+                "http://no.wikipedia.org/wiki/Darmstadt",
+                "http://pl.wikipedia.org/wiki/Darmstadt",
+                "http://pt.wikipedia.org/wiki/Darmstadt",
+                "http://ro.wikipedia.org/wiki/Darmstadt",
+                "http://ru.wikipedia.org/wiki/Дармштадт",
+                "http://sv.wikipedia.org/wiki/Darmstadt",
+                "http://tr.wikipedia.org/wiki/Darmstadt",
+                "http://zh.wikipedia.org/wiki/达姆施塔特",
+                "http://d-nb.info/gnd/4011077-1",
+                "http://www4.wiwiss.fu-berlin.de/eurostat/resource/regions/Darmstadt",
+                "http://linkedgeodata.org/triplify/node240074718",
+                "http://www.w3.org/2006/03/wn/wn20/instances/synset-city-noun-3",
+                "sumo:City"
+            ],
+            "variant_list": [
+                {
+                    "endp": "1819",
+                    "form": "Darmstadt",
+                    "inip": "1811"
+                },
+                {
+                    "endp": "1838",
+                    "form": "Darmstadt",
+                    "inip": "1830"
+                },
+                {
+                    "endp": "1888",
+                    "form": "Darmstadt",
+                    "inip": "1880"
+                }
+            ]
+        },
+        {
+            "form": "Alabin",
+            "id": "__8119864057296608751",
+            "relevance": "66",
+            "sementity": {
+                "class": "instance",
+                "confidence": "unknown",
+                "type": "Top"
+            },
+            "variant_list": [
+                {
+                    "endp": "1786",
+                    "form": "Alabin",
+                    "inip": "1781"
+                },
+                {
+                    "endp": "1916",
+                    "form": "Alabin",
+                    "inip": "1911"
+                }
+            ]
+        },
+        {
+            "form": "Il",
+            "id": "__6899123854528626675",
+            "relevance": "66",
+            "sementity": {
+                "class": "instance",
+                "confidence": "unknown",
+                "type": "Top"
+            },
+            "variant_list": [
+                {
+                    "endp": "1978",
+                    "form": "Il",
+                    "inip": "1977"
+                },
+                {
+                    "endp": "1998",
+                    "form": "Il",
+                    "inip": "1997"
+                }
+            ]
+        },
+        {
+            "form": "Stepan Arkadyevitch Oblonsky",
+            "id": "__2891787240526171926",
+            "relevance": "33",
+            "sementity": {
+                "class": "instance",
+                "confidence": "unknown",
+                "type": "Top"
+            },
+            "variant_list": [
+                {
+                    "endp": "1228",
+                    "form": "Stepan Arkadyevitch Oblonsky",
+                    "inip": "1201"
+                }
+            ]
+        },
+        {
+            "form": "America",
+            "id": "33fc13e6dd",
+            "relevance": "33",
+            "sementity": {
+                "class": "instance",
+                "fiction": "nonfiction",
+                "id": "ODENTITY_CONTINENT",
+                "type": "Top>Location>GeoPoliticalEntity>Continent"
+            },
+            "semld_list": [
+                "http://en.wikipedia.org/wiki/Americas",
+                "http://ar.wikipedia.org/wiki/أمريكتان",
+                "http://ca.wikipedia.org/wiki/Amèrica",
+                "http://cs.wikipedia.org/wiki/Amerika",
+                "http://da.wikipedia.org/wiki/Amerika",
+                "http://de.wikipedia.org/wiki/Amerika",
+                "http://es.wikipedia.org/wiki/América",
+                "http://fi.wikipedia.org/wiki/Amerikan_manner",
+                "http://fr.wikipedia.org/wiki/Amérique",
+                "http://he.wikipedia.org/wiki/אמריקה",
+                "http://hi.wikipedia.org/wiki/महाअमेरिका",
+                "http://id.wikipedia.org/wiki/Benua_Amerika",
+                "http://it.wikipedia.org/wiki/America",
+                "http://ja.wikipedia.org/wiki/アメリカ州",
+                "http://ko.wikipedia.org/wiki/아메리카",
+                "http://nl.wikipedia.org/wiki/Amerika_(continent)",
+                "http://no.wikipedia.org/wiki/Amerika",
+                "http://pl.wikipedia.org/wiki/Ameryka",
+                "http://pt.wikipedia.org/wiki/América",
+                "http://ro.wikipedia.org/wiki/America",
+                "http://ru.wikipedia.org/wiki/Америка",
+                "http://sv.wikipedia.org/wiki/Amerika",
+                "http://th.wikipedia.org/wiki/ทวีปอเมริกา",
+                "http://tr.wikipedia.org/wiki/Amerika",
+                "http://zh.wikipedia.org/wiki/美洲",
+                "http://d-nb.info/gnd/4001670-5",
+                "@atamerica",
+                "@CF_America",
+                "@GMA",
+                "@RadioAmerique",
+                "@ThisIsAmerica",
+                "https://www.facebook.com/pages/Americas/109514409074808",
+                "sumo:Continent"
+            ],
+            "variant_list": [
+                {
+                    "endp": "1903",
+                    "form": "America",
+                    "inip": "1897"
+                }
+            ]
+        },
+        {
+            "form": "Stepan Arkadyevitch",
+            "id": "__10243177417978293888",
+            "relevance": "33",
+            "sementity": {
+                "class": "instance",
+                "confidence": "unknown",
+                "type": "Top"
+            },
+            "variant_list": [
+                {
+                    "endp": "2161",
+                    "form": "Stepan Arkadyevitch",
+                    "inip": "2143"
+                }
+            ]
+        },
+        {
+            "form": "Morocco",
+            "id": "5c8bf59e88",
+            "relevance": "33",
+            "sementity": {
+                "class": "instance",
+                "fiction": "nonfiction",
+                "id": "ODENTITY_COUNTRY",
+                "type": "Top>Location>GeoPoliticalEntity>Country"
+            },
+            "semgeo_list": [
+                {
+                    "continent": {
+                        "form": "Africa",
+                        "id": "8c8adb23a1"
+                    }
+                }
+            ],
+            "semld_list": [
+                "http://en.wikipedia.org/wiki/Morocco",
+                "http://ar.wikipedia.org/wiki/المغرب",
+                "http://ca.wikipedia.org/wiki/Marroc",
+                "http://cs.wikipedia.org/wiki/Maroko",
+                "http://da.wikipedia.org/wiki/Marokko",
+                "http://de.wikipedia.org/wiki/Marokko",
+                "http://es.wikipedia.org/wiki/Marruecos",
+                "http://fi.wikipedia.org/wiki/Marokko",
+                "http://fr.wikipedia.org/wiki/Maroc",
+                "http://he.wikipedia.org/wiki/מרוקו",
+                "http://hi.wikipedia.org/wiki/मोरक्को",
+                "http://id.wikipedia.org/wiki/Maroko",
+                "http://it.wikipedia.org/wiki/Marocco",
+                "http://ja.wikipedia.org/wiki/モロッコ",
+                "http://ko.wikipedia.org/wiki/모로코",
+                "http://nl.wikipedia.org/wiki/Marokko",
+                "http://no.wikipedia.org/wiki/Marokko",
+                "http://pl.wikipedia.org/wiki/Maroko",
+                "http://pt.wikipedia.org/wiki/Marrocos",
+                "http://ro.wikipedia.org/wiki/Maroc",
+                "http://ru.wikipedia.org/wiki/Марокко",
+                "http://sv.wikipedia.org/wiki/Marocko",
+                "http://th.wikipedia.org/wiki/ประเทศโมร็อกโก",
+                "http://tr.wikipedia.org/wiki/Fas",
+                "http://zh.wikipedia.org/wiki/摩洛哥",
+                "http://d-nb.info/gnd/4037680-1",
+                "http://eurostat.linked-statistics.org/dic/c_ctrl#MA",
+                "http://www4.wiwiss.fu-berlin.de/factbook/resource/Morocco",
+                "http://ghodata/r6-c119",
+                "http://linkedgeodata.org/triplify/node432425041",
+                "http://data.nytimes.com/60372254002388641121",
+                "http://data.nytimes.com/N24453482825140864121",
+                "http://sw.cyc.com/concept/Mx4rvViJBpwpEbGdrcN5Y29ycA",
+                "http://openei.org/resources/Morocco",
+                "http://transparency.270a.info/classification/country/MA",
+                "http://worldbank.270a.info/classification/country/MA",
+                "@actumaroc",
+                "@NewsMaroc",
+                "@USEmbMorocco",
+                "sumo:Nation"
+            ],
+            "standard_list": [
+                {
+                    "id": "ISO3166-1-a2",
+                    "value": "MA"
+                },
+                {
+                    "id": "ISO3166-1-a3",
+                    "value": "MAR"
+                }
+            ],
+            "variant_list": [
+                {
+                    "endp": "2639",
+                    "form": "morocco",
+                    "inip": "2633"
+                }
+            ]
+        }
+    ],
+    "money_expression_list": [],
+    "other_expression_list": [],
+    "quantity_expression_list": [
+        {
+            "amount_form": "three",
+            "endp": "408",
+            "form": "three days",
+            "inip": "399",
+            "numeric_value": "3",
+            "unit": "day"
+        },
+        {
+            "amount_form": "three",
+            "endp": "873",
+            "form": "three days",
+            "inip": "864",
+            "numeric_value": "3",
+            "unit": "day"
+        },
+        {
+            "amount_form": "Three",
+            "endp": "1173",
+            "form": "Three days",
+            "inip": "1164",
+            "numeric_value": "3",
+            "unit": "day"
+        },
+        {
+            "amount_form": "nine",
+            "endp": "2694",
+            "form": "the last nine years",
+            "inip": "2676",
+            "numeric_value": "9",
+            "unit": "year"
+        }
+    ],
+    "quotation_list": [
+        {
+            "endp": "357",
+            "form": "the husband was carrying on an intrigue with a French girl, who had been a governess in their family, and she had announced to her husband that she could not go on living in the same house with him.",
+            "inip": "160",
+            "verb": {
+                "form": "had discovered",
+                "lemma": "discover"
+            },
+            "who": {
+                "form": "The wife",
+                "lemma": "wife"
+            }
+        },
+        {
+            "endp": "788",
+            "form": "there was no sense in their living together, and that the stray people brought together by chance in any inn had more in common with one another than they, the members of the family and household of the Oblonskys.",
+            "inip": "576",
+            "verb": {
+                "form": "felt",
+                "lemma": "feel"
+            },
+            "who": {
+                "form": "Every person in the house",
+                "lemma": "person"
+            }
+        },
+        {
+            "endp": "1715",
+            "form": "Yes, yes, how was it now?",
+            "inip": "1689"
+        },
+        {
+            "endp": "1767",
+            "form": "Now, how was it?",
+            "inip": "1751"
+        },
+        {
+            "endp": "1779",
+            "form": "To be sure!",
+            "inip": "1769"
+        },
+        {
+            "endp": "1820",
+            "form": "Alabin was giving a dinner at Darmstadt;",
+            "inip": "1781"
+        },
+        {
+            "endp": "1863",
+            "form": "no, not Darmstadt, but something American.",
+            "inip": "1822"
+        },
+        {
+            "endp": "1904",
+            "form": "Yes, but then, Darmstadt was in America.",
+            "inip": "1865"
+        },
+        {
+            "endp": "1990",
+            "form": "Yes, Alabin was giving a dinner on glass tables, and the tables sang, _Il mio tesoro_",
+            "inip": "1906"
+        },
+        {
+            "endp": "2141",
+            "form": "—not _Il mio tesoro_ though, but something better, and there were some sort of little decanters on the table, and they were women, too, he remembered.",
+            "inip": "1991"
+        },
+        {
+            "endp": "2214",
+            "form": "Stepan Arkadyevitch’s eyes twinkled gaily, and he pondered with a smile.",
+            "inip": "2143"
+        },
+        {
+            "endp": "2244",
+            "form": "Yes, it was nice, very nice.",
+            "inip": "2216"
+        },
+        {
+            "endp": "2640",
+            "form": "There was a great deal more that was delightful, only there’s no putting it into words, or even expressing it in one’s thoughts awake. And noticing a gleam of light peeping in beside one of the serge curtains, he cheerfully dropped his feet over the edge of the sofa, and felt about with them for his slippers, a present on his last birthday, worked for him by his wife on gold-colored morocco.",
+            "inip": "2246"
+        },
+        {
+            "endp": "2812",
+            "form": "And, as he had done every day for the last nine years, he stretched out his hand, without getting up, towards the place where his dressing-gown always hung in his bedroom.",
+            "inip": "2642"
+        },
+        {
+            "endp": "2921",
+            "form": "And thereupon he suddenly remembered that he was not sleeping in his wife’s room, but in his study, and why:",
+            "inip": "2814"
+        },
+        {
+            "endp": "2977",
+            "form": "the smile vanished from his face, he knitted his brows.",
+            "inip": "2923"
+        }
+    ],
+    "relation_list": [
+        {
+            "complement_list": [
+                {
+                    "form": "all alike",
+                    "type": "isAttribute"
+                },
+                {
+                    "form": "in confusion",
+                    "type": "isComplement"
+                },
+                {
+                    "form": "in the Oblonskys",
+                    "type": "isComplement"
+                },
+                {
+                    "form": "unhappy in its own way",
+                    "type": "isAttribute"
+                }
+            ],
+            "degree": "1",
+            "endp": "27",
+            "form": "Happy families are all alike;",
+            "inip": "0",
+            "subject": {
+                "form": "Happy families",
+                "lemma_list": [
+                    "family"
+                ],
+                "sense_id_list": [
+                    "180fd2e522"
+                ]
+            },
+            "verb": {
+                "form": "are",
+                "lemma_list": [
+                    "be"
+                ]
+            }
+        },
+        {
+            "complement_list": [],
+            "degree": "1",
+            "endp": "128",
+            "form": "Everything was in confusion in the Oblonskys’ house.",
+            "inip": "78",
+            "subject": {
+                "form": "every unhappy family",
+                "lemma_list": [
+                    "family"
+                ],
+                "sense_id_list": [
+                    "180fd2e522"
+                ]
+            },
+            "verb": {
+                "form": "house",
+                "lemma_list": [
+                    "house"
+                ],
+                "sense_id_list": [
+                    "ODENTITY_CHANGE_OF_POSSESSION"
+                ]
+            }
+        },
+        {
+            "complement_list": [
+                {
+                    "form": "that the husband was carrying on an intrigue with a French girl",
+                    "type": "isDirectObject"
+                }
+            ],
+            "degree": "1",
+            "endp": "259",
+            "form": "The wife had discovered that the husband was carrying on an intrigue with a French girl, who had been a governess in their family, and she had announced to her husband that she could not go on living in the same house with him.",
+            "inip": "131",
+            "subject": {
+                "form": "The wife",
+                "lemma_list": [
+                    "wife"
+                ],
+                "sense_id_list": [
+                    "07e4b91de9"
+                ]
+            },
+            "verb": {
+                "form": "had discovered",
+                "lemma_list": [
+                    "discover"
+                ]
+            }
+        },
+        {
+            "complement_list": [
+                {
+                    "form": "a governess",
+                    "type": "isAttribute"
+                },
+                {
+                    "form": "in their family",
+                    "type": "isComplement"
+                },
+                {
+                    "form": "was carrying",
+                    "type": "isComplement"
+                },
+                {
+                    "form": "who had been a governess in their family",
+                    "type": "isNonRestrictiveApposition"
+                },
+                {
+                    "form": "at home for three days",
+                    "type": "isComplement"
+                }
+            ],
+            "degree": "1",
+            "endp": "259",
+            "form": "The wife had discovered that the husband was carrying on an intrigue with a French girl, who had been a governess in their family, and she had announced to her husband that she could not go on living in the same house with him.",
+            "inip": "220",
+            "subject": {
+                "form": "the husband",
+                "lemma_list": [
+                    "husband"
+                ],
+                "sense_id_list": [
+                    "6a17861b62"
+                ]
+            },
+            "verb": {
+                "form": "had been",
+                "lemma_list": [
+                    "be"
+                ]
+            }
+        },
+        {
+            "complement_list": [
+                {
+                    "form": "on an intrigue with a French girl",
+                    "type": "isComplement"
+                }
+            ],
+            "degree": "1",
+            "endp": "217",
+            "form": "The wife had discovered that the husband was carrying on an intrigue with a French girl, who had been a governess in their family, and she had announced to her husband that she could not go on living in the same house with him.",
+            "inip": "155",
+            "subject": {
+                "form": "the husband",
+                "lemma_list": [
+                    "husband"
+                ],
+                "sense_id_list": [
+                    "6a17861b62"
+                ]
+            },
+            "verb": {
+                "form": "was carrying",
+                "lemma_list": [
+                    "carry"
+                ]
+            }
+        },
+        {
+            "complement_list": [
+                {
+                    "form": "sense",
+                    "type": "isAttribute"
+                }
+            ],
+            "degree": "1",
+            "endp": "1767",
+            "form": "“Now, how was it?",
+            "inip": "1757",
+            "subject": {
+                "form": "she",
+                "lemma_list": [
+                    "she"
+                ],
+                "sense_id_list": [
+                    "PRONHUMAN"
+                ]
+            },
+            "verb": {
+                "form": "was",
+                "lemma_list": [
+                    "be"
+                ]
+            }
+        },
+        {
+            "complement_list": [],
+            "degree": "1",
+            "endp": "1749",
+            "form": "“Yes, yes, how was it now?” he thought, going over his dream.",
+            "inip": "1689",
+            "subject": {
+                "form": "she",
+                "lemma_list": [
+                    "she"
+                ],
+                "sense_id_list": [
+                    "PRONHUMAN"
+                ]
+            },
+            "verb": {
+                "form": "“Yes, yes, how was it now?”",
+                "lemma_list": [
+                    "yes"
+                ]
+            }
+        },
+        {
+            "complement_list": [
+                {
+                    "form": "no sense",
+                    "type": "isDirectObject"
+                },
+                {
+                    "form": "in their living",
+                    "type": "isComplement"
+                },
+                {
+                    "form": "together",
+                    "type": "isComplement"
+                }
+            ],
+            "degree": "1",
+            "endp": "618",
+            "form": "Every person in the house felt that there was no sense in their living together, and that the stray people brought together by chance in any inn had more in common with one another than they, the members of the family and household of the Oblonskys.",
+            "inip": "571",
+            "subject": {
+                "form": "she",
+                "lemma_list": [
+                    "she"
+                ],
+                "sense_id_list": [
+                    "PRONHUMAN"
+                ]
+            },
+            "verb": {
+                "form": "there was",
+                "lemma_list": [
+                    "there was"
+                ]
+            }
+        },
+        {
+            "complement_list": [
+                {
+                    "form": "to her husband",
+                    "type": "isComplement"
+                }
+            ],
+            "degree": "1",
+            "endp": "356",
+            "form": "The wife had discovered that the husband was carrying on an intrigue with a French girl, who had been a governess in their family, and she had announced to her husband that she could not go on living in the same house with him.",
+            "inip": "266",
+            "subject": {
+                "form": "she",
+                "lemma_list": [
+                    "she"
+                ],
+                "sense_id_list": [
+                    "PRONHUMAN"
+                ]
+            },
+            "verb": {
+                "form": "had announced",
+                "lemma_list": [
+                    "announce"
+                ]
+            }
+        },
+        {
+            "complement_list": [],
+            "degree": "1",
+            "endp": "356",
+            "form": "The wife had discovered that the husband was carrying on an intrigue with a French girl, who had been a governess in their family, and she had announced to her husband that she could not go on living in the same house with him.",
+            "inip": "299",
+            "subject": {
+                "form": "she",
+                "lemma_list": [
+                    "she"
+                ],
+                "sense_id_list": [
+                    "PRONHUMAN"
+                ]
+            },
+            "verb": {
+                "form": "could not go on",
+                "lemma_list": [
+                    "go on"
+                ]
+            }
+        },
+        {
+            "complement_list": [
+                {
+                    "form": "now",
+                    "type": "isTimeComplement"
+                },
+                {
+                    "form": "three days",
+                    "type": "isTimeComplement"
+                }
+            ],
+            "degree": "1",
+            "endp": "408",
+            "form": "This position of affairs now had lasted three days, and not only the husband and wife themselves, but all the members of their family and household, were painfully conscious of it.",
+            "inip": "359",
+            "subject": {
+                "form": "This position of affairs",
+                "lemma_list": [
+                    "position"
+                ],
+                "sense_id_list": [
+                    "33c15c9ada"
+                ]
+            },
+            "verb": {
+                "form": "had lasted",
+                "lemma_list": [
+                    "last"
+                ]
+            }
+        },
+        {
+            "complement_list": [
+                {
+                    "form": "position",
+                    "type": "isAttribute"
+                }
+            ],
+            "degree": "1",
+            "endp": "537",
+            "form": "This position of affairs now had lasted three days, and not only the husband and wife themselves, but all the members of their family and household, were painfully conscious of it.",
+            "inip": "415",
+            "subject": {
+                "form": "all the members of their family and household",
+                "lemma_list": [
+                    "member"
+                ],
+                "sense_id_list": [
+                    "2262dbecf7",
+                    "a4d4273e43",
+                    "a87b286b77"
+                ]
+            },
+            "verb": {
+                "form": "were",
+                "lemma_list": [
+                    "be"
+                ]
+            }
+        },
+        {
+            "complement_list": [
+                {
+                    "form": "that there was no sense in their living together",
+                    "type": "isDirectObject"
+                }
+            ],
+            "degree": "1",
+            "endp": "618",
+            "form": "Every person in the house felt that there was no sense in their living together, and that the stray people brought together by chance in any inn had more in common with one another than they, the members of the family and household of the Oblonskys.",
+            "inip": "540",
+            "subject": {
+                "form": "Every person in the house",
+                "lemma_list": [
+                    "person"
+                ],
+                "sense_id_list": [
+                    "cf33ac9c72"
+                ]
+            },
+            "verb": {
+                "form": "felt",
+                "lemma_list": [
+                    "feel"
+                ]
+            }
+        },
+        {
+            "complement_list": [
+                {
+                    "form": "together by chance",
+                    "type": "isMannerComplement"
+                },
+                {
+                    "form": "in any inn had more in common with one another than they",
+                    "type": "isComplement"
+                }
+            ],
+            "degree": "1",
+            "endp": "729",
+            "form": "Every person in the house felt that there was no sense in their living together, and that the stray people brought together by chance in any inn had more in common with one another than they, the members of the family and household of the Oblonskys.",
+            "inip": "625",
+            "subject": {
+                "form": "the stray people",
+                "lemma_list": [
+                    "people"
+                ],
+                "sense_id_list": [
+                    "0e4a93483a"
+                ]
+            },
+            "verb": {
+                "form": "brought",
+                "lemma_list": [
+                    "bring"
+                ]
+            }
+        },
+        {
+            "complement_list": [
+                {
+                    "form": "her own room",
+                    "type": "isDirectObject"
+                }
+            ],
+            "degree": "1",
+            "endp": "873",
+            "form": "The wife did not leave her own room, the husband had not been at home for three days.",
+            "inip": "790",
+            "subject": {
+                "form": "The wife",
+                "lemma_list": [
+                    "wife"
+                ],
+                "sense_id_list": [
+                    "07e4b91de9"
+                ]
+            },
+            "verb": {
+                "form": "did not leave",
+                "lemma_list": [
+                    "leave"
+                ]
+            }
+        },
+        {
+            "complement_list": [
+                {
+                    "form": "wild",
+                    "type": "isDirectObject"
+                },
+                {
+                    "form": "all over",
+                    "type": "isDirectObject"
+                }
+            ],
+            "degree": "1",
+            "endp": "915",
+            "form": "The children ran wild all over the house;",
+            "inip": "876",
+            "subject": {
+                "form": "The children",
+                "lemma_list": [
+                    "child"
+                ],
+                "sense_id_list": [
+                    "88b99f4a4d"
+                ]
+            },
+            "verb": {
+                "form": "ran",
+                "lemma_list": [
+                    "run"
+                ]
+            }
+        },
+        {
+            "complement_list": [
+                {
+                    "form": "to a friend",
+                    "type": "isComplement"
+                }
+            ],
+            "degree": "1",
+            "endp": "1043",
+            "form": "the English governess quarreled with the housekeeper, and wrote to a friend asking her to look out for a new situation for her;",
+            "inip": "976",
+            "subject": {
+                "form": "the English governess",
+                "lemma_list": [
+                    "governess"
+                ],
+                "sense_id_list": [
+                    "514df951a7"
+                ]
+            },
+            "verb": {
+                "form": "wrote",
+                "lemma_list": [
+                    "write"
+                ],
+                "sense_id_list": [
+                    "ODENTITY_CONTENT_DEVELOPMENT",
+                    "ODENTITY_INTENTIONAL_PSYCHOLOGICAL_PROCESS",
+                    "ODENTITY_PUBLICATION",
+                    "ODENTITY_WRITING"
+                ]
+            }
+        },
+        {
+            "complement_list": [
+                {
+                    "form": "with the housekeeper",
+                    "type": "isComplement"
+                }
+            ],
+            "degree": "1",
+            "endp": "969",
+            "form": "the English governess quarreled with the housekeeper, and wrote to a friend asking her to look out for a new situation for her;",
+            "inip": "918",
+            "subject": {
+                "form": "the English governess",
+                "lemma_list": [
+                    "governess"
+                ],
+                "sense_id_list": [
+                    "514df951a7"
+                ]
+            },
+            "verb": {
+                "form": "quarreled",
+                "lemma_list": [
+                    "quarrel"
+                ]
+            }
+        },
+        {
+            "complement_list": [
+                {
+                    "form": "off the day",
+                    "type": "isTimeComplement"
+                },
+                {
+                    "form": "just",
+                    "type": "isQuantityComplement"
+                },
+                {
+                    "form": "at dinner time",
+                    "type": "isTimeComplement"
+                }
+            ],
+            "degree": "1",
+            "endp": "1107",
+            "form": "the man-cook had walked off the day before just at dinner time;",
+            "inip": "1046",
+            "subject": {
+                "form": "the man-cook",
+                "lemma_list": [
+                    "man"
+                ],
+                "sense_id_list": [
+                    "20a218cbdf"
+                ]
+            },
+            "verb": {
+                "form": "had walked",
+                "lemma_list": [
+                    "walk"
+                ]
+            }
+        },
+        {
+            "complement_list": [
+                {
+                    "form": "warning",
+                    "type": "isDirectObject"
+                }
+            ],
+            "degree": "1",
+            "endp": "1161",
+            "form": "the kitchen-maid, and the coachman had given warning.",
+            "inip": "1132",
+            "subject": {
+                "form": "the coachman",
+                "lemma_list": [
+                    "coachman"
+                ],
+                "sense_id_list": [
+                    "384db28b9e"
+                ]
+            },
+            "verb": {
+                "form": "had given",
+                "lemma_list": [
+                    "give"
+                ]
+            }
+        },
+        {
+            "complement_list": [
+                {
+                    "form": "his eyes",
+                    "type": "isDirectObject"
+                }
+            ],
+            "degree": "1",
+            "endp": "1686",
+            "form": "but all at once he jumped up, sat up on the sofa, and opened his eyes.",
+            "inip": "1672",
+            "subject": {
+                "form": "Prince Stepan Arkadyevitch Oblonsky",
+                "lemma_list": [
+                    "Stepan Arkadyevitch Oblonsky"
+                ],
+                "sense_id_list": [
+                    "__2891787240526171926"
+                ]
+            },
+            "verb": {
+                "form": "opened",
+                "lemma_list": [
+                    "open"
+                ],
+                "sense_id_list": [
+                    "ODENTITY_GAME",
+                    "ODENTITY_LINGUISTIC_COMMUNICATION",
+                    "ODENTITY_MOTION",
+                    "ODENTITY_PROCESS",
+                    "ODENTITY_SHAPE_CHANGE"
+                ]
+            }
+        },
+        {
+            "complement_list": [
+                {
+                    "form": "up",
+                    "type": "isLocationComplement"
+                },
+                {
+                    "form": "on the sofa",
+                    "type": "isComplement"
+                }
+            ],
+            "degree": "1",
+            "endp": "1665",
+            "form": "but all at once he jumped up, sat up on the sofa, and opened his eyes.",
+            "inip": "1648",
+            "subject": {
+                "form": "Prince Stepan Arkadyevitch Oblonsky",
+                "lemma_list": [
+                    "Stepan Arkadyevitch Oblonsky"
+                ],
+                "sense_id_list": [
+                    "__2891787240526171926"
+                ]
+            },
+            "verb": {
+                "form": "sat",
+                "lemma_list": [
+                    "sit"
+                ]
+            }
+        },
+        {
+            "complement_list": [
+                {
+                    "form": "his face",
+                    "type": "isDirectObject"
+                },
+                {
+                    "form": "face",
+                    "type": "isComplement"
+                }
+            ],
+            "degree": "1",
+            "endp": "1615",
+            "form": "he vigorously embraced the pillow on the other side and buried his face in it;",
+            "inip": "1595",
+            "subject": {
+                "form": "Prince Stepan Arkadyevitch Oblonsky",
+                "lemma_list": [
+                    "Stepan Arkadyevitch Oblonsky"
+                ],
+                "sense_id_list": [
+                    "__2891787240526171926"
+                ]
+            },
+            "verb": {
+                "form": "buried",
+                "lemma_list": [
+                    "bury"
+                ],
+                "sense_id_list": [
+                    "ODENTITY_INTENTIONAL_PSYCHOLOGICAL_PROCESS",
+                    "ODENTITY_TRANSLOCATION"
+                ]
+            }
+        },
+        {
+            "complement_list": [
+                {
+                    "form": "at eight o’clock in the morning",
+                    "type": "isComplement"
+                },
+                {
+                    "form": "not",
+                    "type": "isNegationComplement"
+                },
+                {
+                    "form": "in his wife’s bedroom",
+                    "type": "isComplement"
+                },
+                {
+                    "form": "Prince Stepan Arkadyevitch Oblonsky",
+                    "type": "isRestrictiveApposition"
+                },
+                {
+                    "form": "Prince Stepan Arkadyevitch Oblonsky",
+                    "type": "isRestrictiveApposition"
+                }
+            ],
+            "degree": "1",
+            "endp": "1312",
+            "form": "—woke up at his usual hour, that is, at eight o’clock in the morning, not in his wife’s bedroom, but on the leather-covered sofa in his study.",
+            "inip": "1306",
+            "subject": {
+                "form": "Prince Stepan Arkadyevitch Oblonsky",
+                "lemma_list": [
+                    "Stepan Arkadyevitch Oblonsky"
+                ],
+                "sense_id_list": [
+                    "__2891787240526171926"
+                ]
+            },
+            "verb": {
+                "form": "is",
+                "lemma_list": [
+                    "be"
+                ]
+            }
+        },
+        {
+            "complement_list": [
+                {
+                    "form": "at his usual hour",
+                    "type": "isTimeComplement"
+                }
+            ],
+            "degree": "1",
+            "endp": "1372",
+            "form": "—woke up at his usual hour, that is, at eight o’clock in the morning, not in his wife’s bedroom, but on the leather-covered sofa in his study.",
+            "inip": "1278",
+            "subject": {
+                "form": "Prince Stepan Arkadyevitch Oblonsky",
+                "lemma_list": [
+                    "Stepan Arkadyevitch Oblonsky"
+                ],
+                "sense_id_list": [
+                    "__2891787240526171926"
+                ]
+            },
+            "verb": {
+                "form": "woke up",
+                "lemma_list": [
+                    "wake up"
+                ]
+            }
+        },
+        {
+            "complement_list": [
+                {
+                    "form": "in the fashionable world",
+                    "type": "isComplement"
+                }
+            ],
+            "degree": "2",
+            "endp": "1277",
+            "form": "—Stiva, as he was called in the fashionable world",
+            "inip": "1237",
+            "subject": {
+                "form": "Prince Stepan Arkadyevitch Oblonsky",
+                "lemma_list": [
+                    "Stepan Arkadyevitch Oblonsky"
+                ],
+                "sense_id_list": [
+                    "__2891787240526171926"
+                ]
+            },
+            "verb": {
+                "form": "was called",
+                "lemma_list": [
+                    "call"
+                ]
+            }
+        },
+        {
+            "complement_list": [
+                {
+                    "form": "woke up",
+                    "type": "isTimeComplement"
+                },
+                {
+                    "form": "that is",
+                    "type": "isNonRestrictiveApposition"
+                }
+            ],
+            "degree": "1",
+            "endp": "1372",
+            "form": "—woke up at his usual hour, that is, at eight o’clock in the morning, not in his wife’s bedroom, but on the leather-covered sofa in his study.",
+            "inip": "1278",
+            "subject": {
+                "form": "at his usual hour",
+                "lemma_list": [
+                    "at"
+                ]
+            },
+            "verb": {
+                "form": "(be)",
+                "lemma_list": [
+                    "be"
+                ],
+                "semantic_lemma": "be"
+            }
+        },
+        {
+            "complement_list": [],
+            "degree": "2",
+            "endp": "1487",
+            "form": "He turned over his stout, well-cared-for person on the springy sofa, as though he would sink into a long sleep again;",
+            "inip": "1421",
+            "subject": {
+                "form": "Prince Stepan Arkadyevitch Oblonsky",
+                "lemma_list": [
+                    "Stepan Arkadyevitch Oblonsky"
+                ],
+                "sense_id_list": [
+                    "__2891787240526171926"
+                ]
+            },
+            "verb": {
+                "form": "turned over",
+                "lemma_list": [
+                    "turn over"
+                ]
+            }
+        },
+        {
+            "complement_list": [
+                {
+                    "form": "into a long sleep",
+                    "type": "isComplement"
+                },
+                {
+                    "form": "again",
+                    "type": "isQuantityComplement"
+                }
+            ],
+            "degree": "2",
+            "endp": "1536",
+            "form": "He turned over his stout, well-cared-for person on the springy sofa, as though he would sink into a long sleep again;",
+            "inip": "1500",
+            "subject": {
+                "form": "Prince Stepan Arkadyevitch Oblonsky",
+                "lemma_list": [
+                    "Stepan Arkadyevitch Oblonsky"
+                ],
+                "sense_id_list": [
+                    "__2891787240526171926"
+                ]
+            },
+            "verb": {
+                "form": "would sink",
+                "lemma_list": [
+                    "sink"
+                ]
+            }
+        },
+        {
+            "complement_list": [
+                {
+                    "form": "vigorously",
+                    "type": "isMannerComplement"
+                },
+                {
+                    "form": "the pillow",
+                    "type": "isDirectObject"
+                },
+                {
+                    "form": "on the other side",
+                    "type": "isLocationComplement"
+                }
+            ],
+            "degree": "2",
+            "endp": "1589",
+            "form": "he vigorously embraced the pillow on the other side and buried his face in it;",
+            "inip": "1539",
+            "subject": {
+                "form": "Prince Stepan Arkadyevitch Oblonsky",
+                "lemma_list": [
+                    "Stepan Arkadyevitch Oblonsky"
+                ],
+                "sense_id_list": [
+                    "__2891787240526171926"
+                ]
+            },
+            "verb": {
+                "form": "embraced",
+                "lemma_list": [
+                    "embrace"
+                ],
+                "sense_id_list": [
+                    "ODENTITY_INTENTIONAL_PSYCHOLOGICAL_PROCESS",
+                    "ODENTITY_TRANSFER"
+                ]
+            }
+        },
+        {
+            "complement_list": [
+                {
+                    "form": "at once",
+                    "type": "isTimeComplement"
+                },
+                {
+                    "form": "up",
+                    "type": "isLocationComplement"
+                }
+            ],
+            "degree": "2",
+            "endp": "1645",
+            "form": "but all at once he jumped up, sat up on the sofa, and opened his eyes.",
+            "inip": "1622",
+            "subject": {
+                "form": "Prince Stepan Arkadyevitch Oblonsky",
+                "lemma_list": [
+                    "Stepan Arkadyevitch Oblonsky"
+                ],
+                "sense_id_list": [
+                    "__2891787240526171926"
+                ]
+            },
+            "verb": {
+                "form": "jumped",
+                "lemma_list": [
+                    "jump"
+                ]
+            }
+        },
+        {
+            "complement_list": [],
+            "degree": "2",
+            "endp": "1748",
+            "form": "“Yes, yes, how was it now?” he thought, going over his dream.",
+            "inip": "1717",
+            "subject": {
+                "form": "Prince Stepan Arkadyevitch Oblonsky",
+                "lemma_list": [
+                    "Stepan Arkadyevitch Oblonsky"
+                ],
+                "sense_id_list": [
+                    "__2891787240526171926"
+                ]
+            },
+            "verb": {
+                "form": "thought",
+                "lemma_list": [
+                    "think"
+                ]
+            }
+        },
+        {
+            "complement_list": [
+                {
+                    "form": "how was it?",
+                    "type": "isNonRestrictiveApposition"
+                }
+            ],
+            "degree": "1",
+            "endp": "1767",
+            "form": "“Now, how was it?",
+            "inip": "1751",
+            "subject": {
+                "form": "Now",
+                "lemma_list": [
+                    "now"
+                ]
+            },
+            "verb": {
+                "form": "(be)",
+                "lemma_list": [
+                    "be"
+                ],
+                "semantic_lemma": "be"
+            }
+        },
+        {
+            "complement_list": [
+                {
+                    "form": "a dinner",
+                    "type": "isDirectObject"
+                },
+                {
+                    "form": "at Darmstadt",
+                    "type": "isLocationComplement"
+                },
+                {
+                    "form": "Yes",
+                    "type": "isComplement"
+                },
+                {
+                    "form": "a dinner on glass tables",
+                    "type": "isDirectObject"
+                }
+            ],
+            "degree": "1",
+            "endp": "1819",
+            "form": "Alabin was giving a dinner at Darmstadt;",
+            "inip": "1781",
+            "subject": {
+                "form": "Alabin",
+                "lemma_list": [
+                    "Alabin"
+                ],
+                "sense_id_list": [
+                    "__8119864057296608751"
+                ]
+            },
+            "verb": {
+                "form": "was giving",
+                "lemma_list": [
+                    "give"
+                ]
+            }
+        },
+        {
+            "complement_list": [
+                {
+                    "form": "then",
+                    "type": "isTimeComplement"
+                },
+                {
+                    "form": "in America",
+                    "type": "isLocationComplement"
+                },
+                {
+                    "form": "Yes",
+                    "type": "isComplement"
+                },
+                {
+                    "form": "nice",
+                    "type": "isAttribute"
+                }
+            ],
+            "degree": "1",
+            "endp": "1903",
+            "form": "Yes, but then, Darmstadt was in America.",
+            "inip": "1874",
+            "subject": {
+                "form": "Darmstadt",
+                "lemma_list": [
+                    "Darmstadt"
+                ],
+                "sense_id_list": [
+                    "f5650fbe01"
+                ]
+            },
+            "verb": {
+                "form": "was",
+                "lemma_list": [
+                    "be"
+                ]
+            }
+        },
+        {
+            "complement_list": [],
+            "degree": "1",
+            "endp": "1973",
+            "form": "Yes, Alabin was giving a dinner on glass tables, and the tables sang, _Il mio tesoro_",
+            "inip": "1959",
+            "subject": {
+                "form": "the tables",
+                "lemma_list": [
+                    "table"
+                ]
+            },
+            "verb": {
+                "form": "sang",
+                "lemma_list": [
+                    "sing"
+                ],
+                "sense_id_list": [
+                    "ODENTITY_COMMUNICATION_PROCESS",
+                    "ODENTITY_RADIATING"
+                ]
+            }
+        },
+        {
+            "complement_list": [
+                {
+                    "form": "Darmstadt",
+                    "type": "isComplement"
+                },
+                {
+                    "form": "by his wife on gold-colored morocco",
+                    "type": "isAgentComplement"
+                }
+            ],
+            "degree": "1",
+            "endp": "2639",
+            "form": "There was a great deal more that was delightful, only there no’s putting it into words, or even expressing it in one’s thoughts awake.” And noticing a gleam of light peeping in beside one of the serge curtains, he cheerfully dropped his feet over the edge of the sofa, and felt about with them for his slippers, a present on his last birthday, worked for him by his wife on gold-colored morocco.",
+            "inip": "2558",
+            "subject": {
+                "form": "Il",
+                "lemma_list": [
+                    "Il"
+                ],
+                "sense_id_list": [
+                    "__6899123854528626675"
+                ]
+            },
+            "verb": {
+                "form": "worked",
+                "lemma_list": [
+                    "work"
+                ],
+                "sense_id_list": [
+                    "ODENTITY_BIOLOGICAL_PROCESS",
+                    "ODENTITY_INTENTIONAL_PROCESS",
+                    "ODENTITY_INTENTIONAL_PSYCHOLOGICAL_PROCESS",
+                    "ODENTITY_MAKING",
+                    "ODENTITY_MANAGING",
+                    "ODENTITY_MOTION",
+                    "ODENTITY_PROCESS",
+                    "ODENTITY_RECREATION_OR_EXERCISE",
+                    "ODENTITY_SOCIAL_INTERACTION",
+                    "ODENTITY_TRANSFER"
+                ]
+            }
+        },
+        {
+            "complement_list": [
+                {
+                    "form": "about",
+                    "type": "isComplement"
+                },
+                {
+                    "form": "feet",
+                    "type": "isComplement"
+                },
+                {
+                    "form": "for his slippers",
+                    "type": "isComplement"
+                }
+            ],
+            "degree": "1",
+            "endp": "2555",
+            "form": "There was a great deal more that was delightful, only there no’s putting it into words, or even expressing it in one’s thoughts awake.” And noticing a gleam of light peeping in beside one of the serge curtains, he cheerfully dropped his feet over the edge of the sofa, and felt about with them for his slippers, a present on his last birthday, worked for him by his wife on gold-colored morocco.",
+            "inip": "2519",
+            "subject": {
+                "form": "Il",
+                "lemma_list": [
+                    "Il"
+                ],
+                "sense_id_list": [
+                    "__6899123854528626675"
+                ]
+            },
+            "verb": {
+                "form": "felt",
+                "lemma_list": [
+                    "feel"
+                ]
+            }
+        },
+        {
+            "complement_list": [
+                {
+                    "form": "of light peeping in beside one of the serge curtains",
+                    "type": "isComplement"
+                }
+            ],
+            "degree": "1",
+            "endp": "2454",
+            "form": "There was a great deal more that was delightful, only there no’s putting it into words, or even expressing it in one’s thoughts awake.” And noticing a gleam of light peeping in beside one of the serge curtains, he cheerfully dropped his feet over the edge of the sofa, and felt about with them for his slippers, a present on his last birthday, worked for him by his wife on gold-colored morocco.",
+            "inip": "2386",
+            "subject": {
+                "form": "Il",
+                "lemma_list": [
+                    "Il"
+                ],
+                "sense_id_list": [
+                    "__6899123854528626675"
+                ]
+            },
+            "verb": {
+                "form": "gleam",
+                "lemma_list": [
+                    "gleam"
+                ],
+                "sense_id_list": [
+                    "ODENTITY_PROCESS",
+                    "ODENTITY_RADIATING"
+                ]
+            }
+        },
+        {
+            "complement_list": [],
+            "degree": "1",
+            "endp": "2380",
+            "form": "There was a great deal more that was delightful, only there no’s putting it into words, or even expressing it in one’s thoughts awake.” And noticing a gleam of light peeping in beside one of the serge curtains, he cheerfully dropped his feet over the edge of the sofa, and felt about with them for his slippers, a present on his last birthday, worked for him by his wife on gold-colored morocco.",
+            "inip": "2337",
+            "subject": {
+                "form": "Il",
+                "lemma_list": [
+                    "Il"
+                ],
+                "sense_id_list": [
+                    "__6899123854528626675"
+                ]
+            },
+            "verb": {
+                "form": "awake",
+                "lemma_list": [
+                    "awake"
+                ]
+            }
+        },
+        {
+            "complement_list": [
+                {
+                    "form": "even",
+                    "type": "isComplement"
+                },
+                {
+                    "form": "thoughts",
+                    "type": "isAttribute"
+                }
+            ],
+            "degree": "1",
+            "endp": "2372",
+            "form": "There was a great deal more that was delightful, only there no’s putting it into words, or even expressing it in one’s thoughts awake.” And noticing a gleam of light peeping in beside one of the serge curtains, he cheerfully dropped his feet over the edge of the sofa, and felt about with them for his slippers, a present on his last birthday, worked for him by his wife on gold-colored morocco.",
+            "inip": "2337",
+            "subject": {
+                "form": "Il",
+                "lemma_list": [
+                    "Il"
+                ],
+                "sense_id_list": [
+                    "__6899123854528626675"
+                ]
+            },
+            "verb": {
+                "form": "’s",
+                "lemma_list": [
+                    "be",
+                    "have"
+                ]
+            }
+        },
+        {
+            "complement_list": [
+                {
+                    "form": "Darmstadt",
+                    "type": "isDirectObject"
+                },
+                {
+                    "form": "into words",
+                    "type": "isComplement"
+                }
+            ],
+            "degree": "1",
+            "endp": "2331",
+            "form": "There was a great deal more that was delightful, only there no’s putting it into words, or even expressing it in one’s thoughts awake.” And noticing a gleam of light peeping in beside one of the serge curtains, he cheerfully dropped his feet over the edge of the sofa, and felt about with them for his slippers, a present on his last birthday, worked for him by his wife on gold-colored morocco.",
+            "inip": "2295",
+            "subject": {
+                "form": "Il",
+                "lemma_list": [
+                    "Il"
+                ],
+                "sense_id_list": [
+                    "__6899123854528626675"
+                ]
+            },
+            "verb": {
+                "form": "’s putting",
+                "lemma_list": [
+                    "putt"
+                ]
+            }
+        },
+        {
+            "complement_list": [],
+            "degree": "1",
+            "endp": "2292",
+            "form": "There was a great deal more that was delightful, only there no’s putting it into words, or even expressing it in one’s thoughts awake.” And noticing a gleam of light peeping in beside one of the serge curtains, he cheerfully dropped his feet over the edge of the sofa, and felt about with them for his slippers, a present on his last birthday, worked for him by his wife on gold-colored morocco.",
+            "inip": "2246",
+            "subject": {
+                "form": "Il",
+                "lemma_list": [
+                    "Il"
+                ],
+                "sense_id_list": [
+                    "__6899123854528626675"
+                ]
+            },
+            "verb": {
+                "form": "There was",
+                "lemma_list": [
+                    "There was"
+                ]
+            }
+        },
+        {
+            "complement_list": [
+                {
+                    "form": "some sort of little",
+                    "type": "isDirectObject"
+                },
+                {
+                    "form": "decanters on the table",
+                    "type": "isDirectObject"
+                }
+            ],
+            "degree": "1",
+            "endp": "2098",
+            "form": "—not _Il mio tesoro_ though, but something better, and there were some sort of little decanters on the table, and they were women, too,” he remembered.",
+            "inip": "2046",
+            "subject": {
+                "form": "Il",
+                "lemma_list": [
+                    "Il"
+                ],
+                "sense_id_list": [
+                    "__6899123854528626675"
+                ]
+            },
+            "verb": {
+                "form": "there were",
+                "lemma_list": [
+                    "there were"
+                ]
+            }
+        },
+        {
+            "complement_list": [
+                {
+                    "form": "women",
+                    "type": "isAttribute"
+                },
+                {
+                    "form": "too",
+                    "type": "isQuantityComplement"
+                }
+            ],
+            "degree": "2",
+            "endp": "2119",
+            "form": "—not _Il mio tesoro_ though, but something better, and there were some sort of little decanters on the table, and they were women, too,” he remembered.",
+            "inip": "2105",
+            "subject": {
+                "form": "the tables",
+                "lemma_list": [
+                    "table"
+                ]
+            },
+            "verb": {
+                "form": "were",
+                "lemma_list": [
+                    "be"
+                ]
+            }
+        },
+        {
+            "complement_list": [
+                {
+                    "form": "thereupon",
+                    "type": "isTimeComplement"
+                },
+                {
+                    "form": "suddenly",
+                    "type": "isMannerComplement"
+                },
+                {
+                    "form": "that he was not sleeping in his wife’s room",
+                    "type": "isDirectObject"
+                }
+            ],
+            "degree": "2",
+            "endp": "2140",
+            "form": "—not _Il mio tesoro_ though, but something better, and there were some sort of little decanters on the table, and they were women, too,” he remembered.",
+            "inip": "2122",
+            "subject": {
+                "form": "Il",
+                "lemma_list": [
+                    "Il"
+                ],
+                "sense_id_list": [
+                    "__6899123854528626675"
+                ]
+            },
+            "verb": {
+                "form": "remembered",
+                "lemma_list": [
+                    "remember"
+                ],
+                "sense_id_list": [
+                    "ODENTITY_BIOLOGICAL_PROCESS",
+                    "ODENTITY_CHANGE_OF_POSSESSION",
+                    "ODENTITY_COMMUNICATION_PROCESS"
+                ]
+            }
+        },
+        {
+            "complement_list": [
+                {
+                    "form": "gaily",
+                    "type": "isMannerComplement"
+                }
+            ],
+            "degree": "1",
+            "endp": "2183",
+            "form": "Stepan Arkadyevitch’s eyes twinkled gaily, and he pondered with a smile.",
+            "inip": "2143",
+            "subject": {
+                "form": "Stepan Arkadyevitch’s eyes",
+                "lemma_list": [
+                    "eye"
+                ]
+            },
+            "verb": {
+                "form": "twinkled",
+                "lemma_list": [
+                    "twinkle"
+                ],
+                "sense_id_list": [
+                    "ODENTITY_RADIATING"
+                ]
+            }
+        },
+        {
+            "complement_list": [
+                {
+                    "form": "with a smile",
+                    "type": "isComplement"
+                }
+            ],
+            "degree": "2",
+            "endp": "2213",
+            "form": "Stepan Arkadyevitch’s eyes twinkled gaily, and he pondered with a smile.",
+            "inip": "2190",
+            "subject": {
+                "form": "Il",
+                "lemma_list": [
+                    "Il"
+                ],
+                "sense_id_list": [
+                    "__6899123854528626675"
+                ]
+            },
+            "verb": {
+                "form": "pondered",
+                "lemma_list": [
+                    "ponder"
+                ],
+                "sense_id_list": [
+                    "ODENTITY_INTENTIONAL_PSYCHOLOGICAL_PROCESS"
+                ]
+            }
+        },
+        {
+            "complement_list": [
+                {
+                    "form": "delightful",
+                    "type": "isAttribute"
+                },
+                {
+                    "form": "only there",
+                    "type": "isLocationComplement"
+                },
+                {
+                    "form": "no",
+                    "type": "isNegationComplement"
+                }
+            ],
+            "degree": "1",
+            "endp": "2292",
+            "form": "There was a great deal more that was delightful, only there no’s putting it into words, or even expressing it in one’s thoughts awake.” And noticing a gleam of light peeping in beside one of the serge curtains, he cheerfully dropped his feet over the edge of the sofa, and felt about with them for his slippers, a present on his last birthday, worked for him by his wife on gold-colored morocco.",
+            "inip": "2274",
+            "subject": {
+                "form": "that",
+                "lemma_list": [
+                    "that"
+                ]
+            },
+            "verb": {
+                "form": "was",
+                "lemma_list": [
+                    "be"
+                ]
+            }
+        },
+        {
+            "complement_list": [
+                {
+                    "form": "his feet over the edge of the sofa",
+                    "type": "isDirectObject"
+                }
+            ],
+            "degree": "2",
+            "endp": "2512",
+            "form": "There was a great deal more that was delightful, only there no’s putting it into words, or even expressing it in one’s thoughts awake.” And noticing a gleam of light peeping in beside one of the serge curtains, he cheerfully dropped his feet over the edge of the sofa, and felt about with them for his slippers, a present on his last birthday, worked for him by his wife on gold-colored morocco.",
+            "inip": "2457",
+            "subject": {
+                "form": "Il",
+                "lemma_list": [
+                    "Il"
+                ],
+                "sense_id_list": [
+                    "__6899123854528626675"
+                ]
+            },
+            "verb": {
+                "form": "dropped",
+                "lemma_list": [
+                    "drop"
+                ],
+                "sense_id_list": [
+                    "ODENTITY_BIOLOGICAL_PROCESS",
+                    "ODENTITY_BODY_MOTION",
+                    "ODENTITY_COMMUNICATION_PROCESS",
+                    "ODENTITY_CONTENT_DEVELOPMENT",
+                    "ODENTITY_DECREASING",
+                    "ODENTITY_GAMING",
+                    "ODENTITY_INTENTIONAL_PROCESS",
+                    "ODENTITY_MOTION",
+                    "ODENTITY_PROCESS",
+                    "ODENTITY_RADIATING",
+                    "ODENTITY_SOCIAL_INTERACTION",
+                    "ODENTITY_TRANSACTION",
+                    "ODENTITY_TRANSFER",
+                    "ODENTITY_TRANSLOCATION"
+                ]
+            }
+        },
+        {
+            "complement_list": [
+                {
+                    "form": "every day",
+                    "type": "isTimeComplement"
+                },
+                {
+                    "form": "for the last nine years",
+                    "type": "isTimeComplement"
+                }
+            ],
+            "degree": "2",
+            "endp": "2694",
+            "form": "And, as he had done every day for the last nine years, he stretched out his hand, without getting up, towards the place where his dressing-gown always hung in his bedroom.",
+            "inip": "2647",
+            "subject": {
+                "form": "Il",
+                "lemma_list": [
+                    "Il"
+                ],
+                "sense_id_list": [
+                    "__6899123854528626675"
+                ]
+            },
+            "verb": {
+                "form": "had done",
+                "lemma_list": [
+                    "do"
+                ]
+            }
+        },
+        {
+            "complement_list": [
+                {
+                    "form": "as he had done every day for the last nine years",
+                    "type": "isComplement"
+                },
+                {
+                    "form": "out",
+                    "type": "isLocationComplement"
+                }
+            ],
+            "degree": "2",
+            "endp": "2811",
+            "form": "And, as he had done every day for the last nine years, he stretched out his hand, without getting up, towards the place where his dressing-gown always hung in his bedroom.",
+            "inip": "2697",
+            "subject": {
+                "form": "Il",
+                "lemma_list": [
+                    "Il"
+                ],
+                "sense_id_list": [
+                    "__6899123854528626675"
+                ]
+            },
+            "verb": {
+                "form": "stretched",
+                "lemma_list": [
+                    "stretch"
+                ],
+                "sense_id_list": [
+                    "ODENTITY_BODY_MOTION",
+                    "ODENTITY_DAMAGING",
+                    "ODENTITY_INCREASING",
+                    "ODENTITY_MOTION",
+                    "ODENTITY_RECREATION_OR_EXERCISE",
+                    "ODENTITY_TRANSFER",
+                    "ODENTITY_TRANSLOCATION"
+                ]
+            }
+        },
+        {
+            "complement_list": [
+                {
+                    "form": "in his bedroom",
+                    "type": "isComplement"
+                }
+            ],
+            "degree": "1",
+            "endp": "2811",
+            "form": "And, as he had done every day for the last nine years, he stretched out his hand, without getting up, towards the place where his dressing-gown always hung in his bedroom.",
+            "inip": "2762",
+            "subject": {
+                "form": "his dressing-gown",
+                "lemma_list": [
+                    "dressing gown"
+                ],
+                "sense_id_list": [
+                    "970a73bd46"
+                ]
+            },
+            "verb": {
+                "form": "hung",
+                "lemma_list": [
+                    "hang"
+                ]
+            }
+        },
+        {
+            "complement_list": [
+                {
+                    "form": "in his wife’s room",
+                    "type": "isComplement"
+                }
+            ],
+            "degree": "2",
+            "endp": "2893",
+            "form": "And thereupon he suddenly remembered that he was not sleeping in his wife’s room, but in his study, and why:",
+            "inip": "2851",
+            "subject": {
+                "form": "Il",
+                "lemma_list": [
+                    "Il"
+                ],
+                "sense_id_list": [
+                    "__6899123854528626675"
+                ]
+            },
+            "verb": {
+                "form": "was not sleeping",
+                "lemma_list": [
+                    "sleep"
+                ]
+            }
+        },
+        {
+            "complement_list": [
+                {
+                    "form": "from his face",
+                    "type": "isComplement"
+                }
+            ],
+            "degree": "1",
+            "endp": "2976",
+            "form": "the smile vanished from his face, he knitted his brows.",
+            "inip": "2923",
+            "subject": {
+                "form": "the smile",
+                "lemma_list": [
+                    "smile"
+                ]
+            },
+            "verb": {
+                "form": "vanished",
+                "lemma_list": [
+                    "vanish"
+                ],
+                "sense_id_list": [
+                    "ODENTITY_DECREASING",
+                    "ODENTITY_PROCESS",
+                    "ODENTITY_TRANSLOCATION"
+                ]
+            }
+        },
+        {
+            "complement_list": [
+                {
+                    "form": "his brows",
+                    "type": "isDirectObject"
+                }
+            ],
+            "degree": "2",
+            "endp": "2976",
+            "form": "the smile vanished from his face, he knitted his brows.",
+            "inip": "2923",
+            "subject": {
+                "form": "Il",
+                "lemma_list": [
+                    "Il"
+                ],
+                "sense_id_list": [
+                    "__6899123854528626675"
+                ]
+            },
+            "verb": {
+                "form": "knitted",
+                "lemma_list": [
+                    "knit"
+                ]
+            }
+        }
+    ],
+    "status": {
+        "code": "0",
+        "msg": "OK",
+        "credits": "2",
+        "remaining_credits": "19991"
+    },
+    "time_expression_list": [
+        {
+            "actual_time": "2022-12-06 14:41:25 GMT+01:00",
+            "endp": "390",
+            "form": "now",
+            "inip": "388",
+            "normalized_form": "||||||+0|+0|||",
+            "precision": "hour"
+        },
+        {
+            "actual_time": "08:00:00 GMT+01:00",
+            "endp": "1345",
+            "form": "eight o’clock in the morning",
+            "inip": "1318",
+            "normalized_form": "|||||||8|00||",
+            "precision": "minutesAMPM"
+        },
+        {
+            "actual_time": "2022-12-10",
+            "endp": "1650",
+            "form": "sat",
+            "inip": "1648",
+            "normalized_form": "|||s|||||||",
+            "precision": "weekday"
+        },
+        {
+            "actual_time": "2022-12-06 14:41:25 GMT+01:00",
+            "endp": "1713",
+            "form": "now",
+            "inip": "1711",
+            "normalized_form": "||||||+0|+0|||",
+            "precision": "hour"
+        },
+        {
+            "actual_time": "2022-12-06 14:41:25 GMT+01:00",
+            "endp": "1754",
+            "form": "Now",
+            "inip": "1752",
+            "normalized_form": "||||||+0|+0|||",
+            "precision": "hour"
+        },
+        {
+            "actual_time": "2013-12-06",
+            "endp": "2694",
+            "form": "the last nine years",
+            "inip": "2676",
+            "normalized_form": "||||-9||||||",
+            "precision": "year"
+        }
+    ]
+}
